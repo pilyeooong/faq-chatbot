@@ -1,5 +1,5 @@
 .env
-chroma_db/
+chroma_db*
 coxwave/
 __pycache__
 .DS_Store
